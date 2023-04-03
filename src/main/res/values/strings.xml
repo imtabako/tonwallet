@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Test</string>
+    <!-- Start View -->
+    <string name="start_text0">TON Wallet</string>
+    <string name="start_text1">TON Wallet allows you to make fast and\nsecure blockchain-based payments\nwithout intermediaries</string>
+    <string name="start_btn0">Create my wallet</string>
+    <string name="start_btn1">Import existing wallet</string>
+</resources>
