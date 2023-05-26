@@ -1,8 +1,17 @@
 <resources>
     <string name="app_name">First Test</string>
+    <string name="app_title"></string>
     <!-- Start View -->
     <string name="start_text0">TON Wallet</string>
     <string name="start_text1">TON Wallet allows you to make fast and\nsecure blockchain-based payments\nwithout intermediaries</string>
     <string name="start_btn0">Create my wallet</string>
     <string name="start_btn1">Import existing wallet</string>
+    <!-- Congratulations view -->
+    <string name="congr_btn0">Proceed</string>
+    <string name="congr_text0">Congratulations</string>
+    <string name="congr_text1">Your TON Wallet has just been created.\nOnly you control it.\n\nTo be able to always have access to it,\nplease write down secret words and set\nup a secure passcode.</string>
+    <!-- RecoveryPhase view -->
+    <string name="recphrase_text0">Your Recovery Phrase</string>
+    <string name="recphrase_text1">Write down these 24 words in this exact order and keep them in a secure place. Do not share this list with anyone. If you lose it, you will irrevocably lose access to your TON account.</string>
+    <string name="recphrase_text2">Your Recovery Phrase</string>
 </resources>
